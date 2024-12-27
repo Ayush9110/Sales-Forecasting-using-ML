@@ -1,0 +1,1 @@
+This project uses machine learning techniques to predict future sales based on historical data. The goal is to provide businesses with actionable insights for inventory management, financial planning, and strategic decision-making.
